@@ -1,14 +1,4 @@
-<link href="format1.css" rel="stylesheet" type="text/css"><link href="format1.css" rel="stylesheet" type="text/css"><link href="format1.css" rel="stylesheet" type="text/css">a:link {
-    background-color: #CCCCCC;
-}a:link {
-    background-color: #CCCCCC;
-}a:link {
-    background-color: #CCCCCC;
-}a:link {
-    background-color: #CCCCCC;
-}a:link {
-    background-color: #CCCCCC;
-}#CCCCCC#CCCCCC@charset "utf-8";
+@charset "utf-8";
 
 h1
 {
@@ -20,5 +10,6 @@ body
 { color:  #000099;
              background-color:  white;
      font-family: Arial, Helvetica, sans-serif; 
-	a:link {background-color: #CCCCCC}
 }
+
+a:link {background-color: #CCCCCC};
